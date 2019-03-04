@@ -1,4 +1,4 @@
-##START WITH EVERYTHING
+## START WITH EVERYTHING
 
 Your mind doesn't neatly categorize different items in order of what is the most impactful, in what sequence and how long something might take. Time can be both _time in the task_ but also _time thinking about the task._ For this reason you start with listing everything you can think of that should be done throughout the day. Fill up every bullet point and stop when you hit slack.
 
@@ -10,7 +10,7 @@ TOP 3
 
 The left-hand side serves as a reminder of what you should do, but the right-hand side is your need to do. The top 3 serves as just that, but the shading indicates just how important the first thing is. Borrowing from the ONE THING book, this is the one task in the sea of maybes that will move the needle for the day. This is not the biggest or longest task that you might face during the day. It is the tire block that allows you to take flight.
 
-##DAILY
+## DAILY
 
 What, if you did it each day, would make you healthier, wealthier and wise? The mundane, forgotten, meager and otherwise unassuming habits that build you into the person you should be if only you did them every day. For me, this comes in the form of:
 
@@ -24,7 +24,7 @@ What, if you did it each day, would make you healthier, wealthier and wise? The 
     Read a chapter. Learn a little bit every day. The compound interest of intelligence is enormous
     Strategic 15min.  I've found that forcing myself to look at the bigger picture for 15 minutes, changes my approach to the day and the week.
 
-##SOMEDAY MAYBE
+## SOMEDAY MAYBE
 
 The brain is on a constant loop, forged from our beginnings of humanity it continually cycles to remember food, shelter, water, and actions of how to survive.  Now that loop serves as a reminder of errands, friends you should call and that one place you should try, what was that place again?
 
@@ -37,10 +37,10 @@ Taking notes throughout the day serves as a space for quick mental math, topics 
     Laptop = Yes, I hear you, but our physical communication is not as important as asynchronous communication (slack, email, facebook etc.)  
     Phone = Fuck if I care, you will summarize it again anyway when I ask you to repeat it.
 
-##THIS WEEK THIS WEEKEND
+## THIS WEEK THIS WEEKEND
 
 Tiny space for a tiny nudge, to mentally track important semi-urgent things that can likely be delegated or carried over to another day, but are not to be forgotten.  
 
-##BONUS: You need a digital version
+## BONUS: You need a digital version
 
 This set up of a to-do list has served me well, but it's not enough.  It's not the most convenient thing to carry around and has its limitations on weekends.  I keep other items and reminders on my phone using THINGS with a similar folder and structure as the physical version.  Yes, there are duplicates, but that also means you get twice the satisfaction when completing things.
